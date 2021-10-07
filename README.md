@@ -4,7 +4,8 @@
          width="45" />, I'm Gonzalo Farias</h1> 
          
 - 👨‍🎓 I am studying **Computer Science** at [***Universidad Nacional del Oeste***](http://www.uno.edu.ar). 
-- 👨🏻‍💻 Also I'm stuyding ***Web Development*** on my own                                 <img height="80px" width="80px" src="https://i.imgur.com/jqF387k.png"
+- 👨🏻‍💻 Also I'm stuyding ***Web Development*** on my own                                 
+<img height="80px" width="80px" src="https://i.imgur.com/jqF387k.png"
  href="https://imgur.com/jqF387k">
 
 **Contact me:** 
