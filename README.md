@@ -17,7 +17,7 @@ My YouTube Channel: <a href="https://www.youtube.com/channel/UCK1VdZqOxHVkPQvrgR
          
 <p align="center"><img src='https://svgshare.com/i/aru.svg' title='snake'/><p/>
 
-<img height="146px" width="320px" src="https://pa1.narvii.com/6929/5916710119a3b0705bad670e540839b7321a4331r1-320-146_hq.gif"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=GonzaFarias.visitor-badge.issue.1)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=GonzaFarias.visitor-badge.issue.1)
 
 
 
