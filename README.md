@@ -11,7 +11,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/gonzalofarias/)
 <a href="mailto:gonzaxeneize01@gmail.com" target="_blank">![Email Badge](https://img.shields.io/badge/-Mail-blue?style=for-the-badge&logo=appveyor)<a/>
 <a href="https://img.shields.io/youtube/channel/subscribers/UCK1VdZqOxHVkPQvrgRKFG9g" target="_blank">![YouTube Channel Subscribers]<a/>
-<img height="506px" width="928px" src="https://i.imgur.com/K5zgypv.gif"
+<img height="253px" width="314px" src="https://i.imgur.com/K5zgypv.gif"
      href="https://imgur.com/K5zgypv"> 
 
 <p align="center"><img src='https://svgshare.com/i/aru.svg' title='snake'/><p/>
