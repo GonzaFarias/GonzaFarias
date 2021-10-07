@@ -16,7 +16,12 @@ My YouTube Channel: <a href="https://www.youtube.com/channel/UCK1VdZqOxHVkPQvrgR
 <img height="464px" width="253px" src="https://i.imgur.com/K5zgypv.gif"
  href="https://imgur.com/K5zgypv"> 
 <img height="464px" width="50px" src="https://i.imgur.com/jPfgYkt.gif"
- href="https://imgur.com/jPfgYkt">         
+ href="https://imgur.com/jPfgYkt">   
+  
+<img height="464px" width="253px" src="https://i.imgur.com/SdgQDmH.gif"
+ href="https://imgur.com/SdgQDmH"> 
+<img height="464px" width="50px" src="https://i.imgur.com/AOL7m1X.gif"
+ href="https://imgur.com/AOL7m1X">            
          
 
 <p align="center"><img src='https://svgshare.com/i/aru.svg' title='snake'/><p/>
