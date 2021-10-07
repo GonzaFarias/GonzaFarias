@@ -9,7 +9,7 @@
 **Contact me:**  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/gonzalofarias/)
-<a href="mailto:gonzaxeneize01@gmail.com" target="_blank">![Email Badge](https://img.shields.io/badge/-Mail-blue?style=for-the-badge&logo=appveyor)<a/><img height="100px" width="100px" src="https://c.tenor.com/bALtjR9cjCYAAAAi/anime.gif">
+<a href="mailto:gonzaxeneize01@gmail.com" target="_blank">![Email Badge](https://img.shields.io/badge/-Mail-blue?style=for-the-badge&logo=appveyor)<a/>
          
 My YouTube Channel: <a href="https://www.youtube.com/channel/UCK1VdZqOxHVkPQvrgRKFG9g" target="_blank">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCK1VdZqOxHVkPQvrgRKFG9g)<a/>
 
@@ -24,7 +24,7 @@ My YouTube Channel: <a href="https://www.youtube.com/channel/UCK1VdZqOxHVkPQvrgR
 
 <p align="center"><img src='https://svgshare.com/i/aru.svg' title='snake'/><p/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=GonzaFarias.visitor-badge.issue.1)
+<img height="130px" width="130px" src="https://c.tenor.com/bALtjR9cjCYAAAAi/anime.gif">  ![visitors](https://visitor-badge.glitch.me/badge?page_id=GonzaFarias.visitor-badge.issue.1)
 
 
 
