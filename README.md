@@ -13,16 +13,13 @@
          
 My YouTube Channel: <a href="https://www.youtube.com/channel/UCK1VdZqOxHVkPQvrgRKFG9g" target="_blank">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCK1VdZqOxHVkPQvrgRKFG9g)<a/>
 
-<img height="464px" width="253px" src="https://i.imgur.com/K5zgypv.gif"
- href="https://imgur.com/K5zgypv"> 
-<img height="464px" width="50px" src="https://i.imgur.com/jPfgYkt.gif"
- href="https://imgur.com/jPfgYkt">  <img height="464px" width="253px" src="https://i.imgur.com/SdgQDmH.gif"
- href="https://imgur.com/SdgQDmH"> 
-<img height="464px" width="50px" src="https://i.imgur.com/AOL7m1X.gif"
- href="https://imgur.com/AOL7m1X"> <img height="464px" width="253px" src="https://i.imgur.com/w1NLzDm.gif"
+<img height="464px" width="253px" src="https://i.imgur.com/w1NLzDm.gif"
  href="https://imgur.com/w1NLzDm">
 <img height="464px" width="50px" src="https://i.imgur.com/OiAMUf1.gif"
- href="https://imgur.com/OiAMUf1">         
+ href="https://imgur.com/OiAMUf1">   <img height="464px" width="253px" src="https://i.imgur.com/SdgQDmH.gif"
+ href="https://imgur.com/SdgQDmH"> 
+<img height="464px" width="50px" src="https://i.imgur.com/AOL7m1X.gif"
+ href="https://imgur.com/AOL7m1X">         
          
 
 <p align="center"><img src='https://svgshare.com/i/aru.svg' title='snake'/><p/>
