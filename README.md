@@ -10,7 +10,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/gonzalofarias/)
 <a href="mailto:gonzaxeneize01@gmail.com" target="_blank">![Email Badge](https://img.shields.io/badge/-Mail-blue?style=for-the-badge&logo=appveyor)<a/>
-<a href="https://www.youtube.com/channel/UCK1VdZqOxHVkPQvrgRKFG9g" target="_blank">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCK1VdZqOxHVkPQvrgRKFG9g)<a/>
+         
+My YouTube Channel: <a href="https://www.youtube.com/channel/UCK1VdZqOxHVkPQvrgRKFG9g" target="_blank">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCK1VdZqOxHVkPQvrgRKFG9g)<a/>
 
 <img height="464px" width="253px" src="https://i.imgur.com/K5zgypv.gif"
  href="https://imgur.com/K5zgypv"> 
