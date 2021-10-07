@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Gonzalo Farias</h1> 
+         
+- 👨‍🎓 I am studying **Computer Science** at [*UNO*](http://www.uno.edu.ar).
+- 👨🏻‍💻 Also I'm stuyding ***Web Development*** on my own
 
-<!--
-**GonzaFarias/GonzaFarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Contact me:** 
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/gonzalofarias/)
+<a href="mailto:gonzaxeneize01@gmail.com" target="_blank">![Email Badge](https://img.shields.io/badge/-Mail-blue?style=for-the-badge&logo=appveyor)<a/>
+<a href="https://img.shields.io/youtube/channel/subscribers/UCK1VdZqOxHVkPQvrgRKFG9g?style=social" target="_blank">![YouTube Channel Subscribers]
+<img height="127px" width="40px" src="https://i.imgur.com/K5zgypv.gif" 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src='https://svgshare.com/i/aru.svg' title='snake'/><p/>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=GonzaFarias.visitor-badge.issue.1)
+
+
+
+<!-- ![YouTube Channel Views](https://img.shields.io/github/followers/francopig?color=d&label=boludos%20que%20me%20siguen&logoColor=d&style=social) -->
