@@ -1,4 +1,4 @@
-<h1 align="center">Hi There<img src="https://c.tenor.com/XMvXpoXRgIUAAAAi/anko-kitashirakawa-tamako-market.gif" 
+<h1 align="center">Hi There<img src="https://c.tenor.com/-hWWcfwUzTAAAAAi/when-you.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Gonzalo Farias, Welcome</h1> 
@@ -6,10 +6,10 @@
 - 👨‍🎓 I am studying **Computer Science** at [***Universidad Nacional del Oeste***](http://www.uno.edu.ar). 
 - 👨🏻‍💻 I am also studying ***Web development*** on my own in a Telefonica course <!--                      -->          
 
-**Contact me:** 
+**Contact me:**  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/gonzalofarias/)
-<a href="mailto:gonzaxeneize01@gmail.com" target="_blank">![Email Badge](https://img.shields.io/badge/-Mail-blue?style=for-the-badge&logo=appveyor)<a/>
+<a href="mailto:gonzaxeneize01@gmail.com" target="_blank">![Email Badge](https://img.shields.io/badge/-Mail-blue?style=for-the-badge&logo=appveyor)<a/><img height="100px" width="100px" src="https://c.tenor.com/bALtjR9cjCYAAAAi/anime.gif">
          
 My YouTube Channel: <a href="https://www.youtube.com/channel/UCK1VdZqOxHVkPQvrgRKFG9g" target="_blank">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCK1VdZqOxHVkPQvrgRKFG9g)<a/>
 
