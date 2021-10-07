@@ -4,8 +4,7 @@
          width="45" />, I'm Gonzalo Farias</h1> 
          
 - 👨‍🎓 I am studying **Computer Science** at [***Universidad Nacional del Oeste***](http://www.uno.edu.ar). 
-- 👨🏻‍💻 I am also studying ***Web development*** on my own in a Telefonica course <!--                      -->          <img height="80px" width="80px" src="https://i.imgur.com/jqF387k.png"
- href="https://imgur.com/jqF387k">
+- 👨🏻‍💻 I am also studying ***Web development*** on my own in a Telefonica course <!--                      -->          
 
 **Contact me:** 
 
@@ -29,4 +28,4 @@ My YouTube Channel: <a href="https://www.youtube.com/channel/UCK1VdZqOxHVkPQvrgR
 
 
 
-<!-- ![YouTube Channel Views](https://img.shields.io/github/followers/francopig?color=d&label=boludos%20que%20me%20siguen&logoColor=d&style=social) -->
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCK1VdZqOxHVkPQvrgRKFG9g?style=social?color=d&label=Viewers%20on%20my%20channel&logoColor=d&style=social)
