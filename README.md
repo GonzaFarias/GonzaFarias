@@ -9,22 +9,15 @@
 **Contact me:**  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/gonzalofarias/)
-<a href="mailto:gonzaxeneize01@gmail.com" target="_blank">![Email Badge](https://img.shields.io/badge/-Mail-blue?style=for-the-badge&logo=appveyor)<a/>
+<a href="https://www.instagram.com/gonzafarias01/?hl=es-la" target="_blank">![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=appveyor)<a/>
          
 My YouTube Channel: <a href="https://www.youtube.com/channel/UCK1VdZqOxHVkPQvrgRKFG9g" target="_blank">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCK1VdZqOxHVkPQvrgRKFG9g)<a/>
 
-<img height="464px" width="253px" src="https://i.imgur.com/w1NLzDm.gif"
- href="https://imgur.com/w1NLzDm">
-<img height="464px" width="50px" src="https://i.imgur.com/OiAMUf1.gif"
- href="https://imgur.com/OiAMUf1">   <img height="464px" width="253px" src="https://i.imgur.com/SdgQDmH.gif"
- href="https://imgur.com/SdgQDmH"> 
-<img height="464px" width="50px" src="https://i.imgur.com/AOL7m1X.gif"
- href="https://imgur.com/AOL7m1X">         
+      
          
-
 <p align="center"><img src='https://svgshare.com/i/aru.svg' title='snake'/><p/>
 
-<img height="130px" width="130px" src="https://c.tenor.com/bALtjR9cjCYAAAAi/anime.gif">  ![visitors](https://visitor-badge.glitch.me/badge?page_id=GonzaFarias.visitor-badge.issue.1)
+<img height="146px" width="320px" src="https://pa1.narvii.com/6929/5916710119a3b0705bad670e540839b7321a4331r1-320-146_hq.gif"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=GonzaFarias.visitor-badge.issue.1)
 
 
 
