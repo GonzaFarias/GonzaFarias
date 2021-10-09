@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Gonzalo Farias, Welcome</h1> 
          
-- 👨‍🎓 I am studying **Computer Science** at [***Universidad Nacional del Oeste***](http://www.uno.edu.ar). 
+- 👨‍🎓 I am studying **Computer Science** at [***National University of the West***](http://www.uno.edu.ar)  (**UNO**). 
 - 👨🏻‍💻 I am also studying ***Web development*** on my own in a Telefonica course <!--                      -->          
 
 **Contact me:**  
