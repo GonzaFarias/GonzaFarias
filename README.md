@@ -11,4 +11,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/gonzalofarias/)
 <a href="https://www.instagram.com/gonzafarias01/?hl=es-la" target="_blank">![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=appveyor)<a/>
          
-![visitors](https://visitor-badge.glitch.me/badge?page_id=GonzaFarias.visitor-badge.issue.1)
