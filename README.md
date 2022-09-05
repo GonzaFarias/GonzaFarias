@@ -1,7 +1,7 @@
 <h1 align="center">Hola<img src="https://c.tenor.com/-hWWcfwUzTAAAAAi/when-you.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />,Soy Gonzalo Farías, Bienvenidx</h1> 
+         width="45" />, Soy Gonzalo Farías, Bienvenidx</h1> 
          
 - Estoy estudiando **Lic. Informática** en la [***Universidad Nacional del Oeste***](http://www.uno.edu.ar)  (**UNO**). 
 - También estudio programación por mi cuenta. <!--                      -->          
