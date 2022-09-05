@@ -3,8 +3,8 @@
          height="45"
          width="45" />,Soy Gonzalo Farías, Bienvenidx</h1> 
          
-- 👨‍🎓 Estoy estudiando **Lic. Informática** en la [***Universidad Nacional del Oeste***](http://www.uno.edu.ar)  (**UNO**). 
--    También estudio programación por mi cuenta. <!--                      -->          
+- Estoy estudiando **Lic. Informática** en la [***Universidad Nacional del Oeste***](http://www.uno.edu.ar)  (**UNO**). 
+- También estudio programación por mi cuenta. <!--                      -->          
 
 **Contact me:**  
 
