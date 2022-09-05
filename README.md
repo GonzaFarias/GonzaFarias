@@ -1,10 +1,10 @@
-<h1 align="center">Hi There<img src="https://c.tenor.com/-hWWcfwUzTAAAAAi/when-you.gif" 
+<h1 align="center">Hola<img src="https://c.tenor.com/-hWWcfwUzTAAAAAi/when-you.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Gonzalo Farias, Welcome</h1> 
+         width="45" />,Soy Gonzalo Farías, Bienvenidx</h1> 
          
-- 👨‍🎓 I am studying **Computer Science** at [***National University of the West***](http://www.uno.edu.ar)  (**UNO**). 
-- 👨🏻‍💻 I also study programming on my own <!--                      -->          
+- 👨‍🎓 Estoy estudiando **Lic. Informática** en la [***Universidad Nacional del Oeste***](http://www.uno.edu.ar)  (**UNO**). 
+-    También estudio programación por mi cuenta. <!--                      -->          
 
 **Contact me:**  
 
