@@ -4,7 +4,7 @@
          width="45" />, Soy Gonzalo Farías, Bienvenidx</h1> 
          
 - Estoy estudiando **Lic. Informática** y **Tec. Tecnologías Web** en la [***Universidad Nacional del Oeste***](http://www.uno.edu.ar)  (**UNO**). 
-- También soy estudio programación de manera autodidacta. <!--                      --> 
+- También estudio programación de manera autodidacta. <!--                      --> 
 
 ## Tecnologías
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
