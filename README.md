@@ -15,10 +15,11 @@
 </a>
 <a href="https://www.python.org" target="_blank"><img src="https://www.pngmart.com/files/7/Python-PNG-File.png" alt="python" width="40" height="40"/>
 </a> 
-<a href="https://www.postgresql.org" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="postgresql" width="40" height="40"/>
-</a>
 <a href="https://www.postman.com" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="40" height="40"/>
 </a> 
+<a href="https://www.postgresql.org" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="postgresql" width="40" height="40"/>
+</a>
+
 
 
 ## Contáctame 
