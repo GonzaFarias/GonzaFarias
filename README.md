@@ -16,12 +16,25 @@
 <a href="https://www.python.org" target="_blank"><img src="https://www.pngmart.com/files/7/Python-PNG-File.png" alt="python" width="40" height="40"/>
 </a> 
 <a href="https://www.postgresql.org" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="postgresql" width="40" height="40"/>
+</a>
+<a href="https://www.postman.com" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="40" height="40"/>
 </a> 
 
 
-## Contact me  
+## Contáctame 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/gonzalofarias/)
 <a href="https://api.whatsapp.com/send/?phone=541125021429&text&app_absent=0" target="_blank">![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)<a/>
 <a href="mailto:gonzafarias01@gmail.com" target="_blank">![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a/>         
          
+<!--  estadisticas de github  -->         
+## 🪐 Streak stats: 
+<section align="center">   
+         
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GonzaFarias&theme=dark&date_format=M%20j%5B%2C%20Y%5D&sideLabels=0072B1&border=0072B1&currStreakLabel=0072B1&ring=0072B1)
+         </section>
+         
+ 
+         
+<!-- contador de visitante-->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=GonzaFarias.visitor-badge.issue.1)   
