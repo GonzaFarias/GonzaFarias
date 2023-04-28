@@ -28,14 +28,3 @@
 <a href="https://api.whatsapp.com/send/?phone=541125021429&text&app_absent=0" target="_blank">![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)<a/>
 <a href="mailto:gonzafarias01@gmail.com" target="_blank">![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a/>         
          
-<!--  estadisticas de github  -->         
-## 🪐 Streak stats: 
-<section align="center">   
-         
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GonzaFarias&theme=dark&date_format=M%20j%5B%2C%20Y%5D&sideLabels=0072B1&border=0072B1&currStreakLabel=0072B1&ring=0072B1)
-         </section>
-         
- 
-         
-<!-- contador de visitante-->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=GonzaFarias.visitor-badge.issue.1)   
