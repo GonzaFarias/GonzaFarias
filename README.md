@@ -11,6 +11,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="javascript" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/>
+</a>
 <a href="https://www.java.com/es/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
 <a href="https://www.python.org" target="_blank"><img src="https://www.pngmart.com/files/7/Python-PNG-File.png" alt="python" width="40" height="40"/>
@@ -19,7 +21,6 @@
 </a> 
 <a href="https://www.postgresql.org" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="postgresql" width="40" height="40"/>
 </a>
-
 
 
 ## Contáctame 
