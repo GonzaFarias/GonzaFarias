@@ -1,28 +1,31 @@
-<h1 align="center">Hola, Soy Gonzalo Farías, Bienvenidx</h1> 
+<img src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" height=40px width=100% style="margin: 0; padding:0;" />
+<h1>Hola<img src="https://c.tenor.com/-hWWcfwUzTAAAAAi/when-you.gif)" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, Soy Gonzalo Farías, Bienvenidx</h1> 
          
-- Estudiando **Lic. Informática** y **Tec. Tecnologías Web** en la [***Universidad Nacional del Oeste***](http://www.uno.edu.ar)  (**UNO**). 
-- También estudio programación de manera autodidacta. <!--                      --> 
-
+- Actualmente cursando **Licenciatura en Informática** y **Tecnicatura en Tecnologías Web** en la [***Universidad Nacional del Oeste***](http://www.uno.edu.ar) (**UNO**).
+- También estudio programación de manera autodidacta.
 ## Tecnologías
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="javascript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com/" target="_blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/>
-</a>
-<a href="https://www.java.com/es/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank"><img src="https://www.pngmart.com/files/7/Python-PNG-File.png" alt="python" width="40" height="40"/>
-</a> 
-<a href="https://www.postgresql.org" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="postgresql" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="#" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png" alt="nodejs" width="40" height="40"/>
-</a>
+<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+
 ## Contáctame 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/gonzalofarias/)
 <a href="https://api.whatsapp.com/send/?phone=541125021429&text&app_absent=0" target="_blank">![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)<a/>
 <a href="mailto:gonzafarias01@gmail.com" target="_blank">![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a/>         
          
+<img src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" height=40px width=100%  />
