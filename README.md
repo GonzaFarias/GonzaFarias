@@ -14,6 +14,7 @@
 <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
+
 <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
