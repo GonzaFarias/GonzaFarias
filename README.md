@@ -8,7 +8,7 @@
 - También estudio programación de manera autodidacta.
 
 - Interesado en la rama de Bases de Datos y Analisis de Datos.
-## Tecnologías
+## Tecnologías que usé
 <a href="#" target="blank"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaFarias&layout=compact&theme=tokyonight&hide_border=true" alt="stats" /></a>          
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -25,6 +25,12 @@
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+
+<a href="#"><img alt="C#" src="https://img.shields.io/badge/C%20Sharp-512BD4?logo=csharp&logoColor=fff&style=flat"></a>
+<a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="SQLserver" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Handlebars" src ="https://img.shields.io/badge/Handlebars.js-000?logo=handlebarsdotjs&logoColor=fff&style=flat"></a>
 
 ## Contáctame 
 
