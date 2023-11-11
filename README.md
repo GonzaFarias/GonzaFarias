@@ -7,7 +7,7 @@
 - Actualmente cursando **Licenciatura en Informática** y **Tecnicatura en Tecnologías Web** en la [***Universidad Nacional del Oeste***](http://www.uno.edu.ar) (**UNO**).
 - También estudio programación de manera autodidacta.
 
-- Interesado en la rama de Bases de Datos y Analisis de Datos.
+- Interesado en el sector de la rama de Datos.
 ## Tecnologías que usé
 <a href="#" target="blank"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaFarias&layout=compact&theme=tokyonight&hide_border=true" alt="stats" /></a>          
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
